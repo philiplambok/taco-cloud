@@ -4,6 +4,12 @@ Learn Java Spring framework from [Spring in Action](https://www.manning.com/book
 
 ## How to install and run the app
 
-```sh
+```shell
 $ ./mvnw spring-boot:run
+```
+
+# How to run test
+
+```shell
+$ ./mvnw test
 ```
